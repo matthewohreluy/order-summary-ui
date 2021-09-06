@@ -1,3 +1,7 @@
+# Live Demo
+  
+  Check the live demo here! https://matthewohreluy.github.io/order-summary-ui/
+  
 # Frontend Mentor - Order summary card
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
